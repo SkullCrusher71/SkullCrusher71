@@ -9,7 +9,7 @@ I'm enjoying building modern, responsive, and user-friendly web applications. an
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [1omar1mohamed.770@gmail.com](mailto:1omar1mohamed.770@gmail.com)
 * 🧠  I'm currently learning MERN Stack
-* 👥  I'm looking to collaborate on I'm open to collaborating on MERN Stack projects, building responsive web applications, and contributing to exciting open-source projects. I'm always happy to connect with other developers, share knowledge, and learn new technologies.
+* 👥  I'm open to collaborating on MERN Stack projects, building responsive web applications, and contributing to exciting open-source projects. I'm always happy to connect with other developers, share knowledge, and learn new technologies.
 * 💬  Always learning, building, and improving.
 
 <p align="left">
